@@ -2,7 +2,7 @@
     "coin": "bigbit",
     "symbol": "BBG",
     "coinUnits": 100000000,
-    "coinDifficultyTarget": 240,
+    "coinDifficultyTarget": 111,
 
     "logging": {
         "files": {
